@@ -1,0 +1,1 @@
+# tassis-client-java [![Build and Test](https://github.com/getlantern/tassis-client-java/workflows/Build%20and%20Test/badge.svg)](https://github.com/getlantern/tassis-client-java/actions?query=workflow%3A%22Build+and+Test%22)
